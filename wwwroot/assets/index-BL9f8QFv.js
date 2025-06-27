@@ -1,0 +1,1 @@
+import{_ as t,c as n,a,o}from"./index-CtZw9WOu.js";const s={__name:"index",setup(r){return(_,e)=>(o(),n("div",null,e[0]||(e[0]=[a("h1",null,"撿貨包裝差異",-1),a("p",null,"自動產生的頁面：撿貨包裝差異",-1)])))}},l=t(s,[["__scopeId","data-v-ca40128e"]]);export{l as default};

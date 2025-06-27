@@ -1,0 +1,1 @@
+import{_ as a,c as n,a as t,o}from"./index-CtZw9WOu.js";const s={__name:"index",setup(r){return(_,e)=>(o(),n("div",null,e[0]||(e[0]=[t("h1",null,"入庫放行介面",-1),t("p",null,"自動產生的頁面：入庫放行介面",-1)])))}},l=a(s,[["__scopeId","data-v-57c4d832"]]);export{l as default};

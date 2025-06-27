@@ -1,0 +1,1 @@
+import{_ as t,c as n,a,o}from"./index-CtZw9WOu.js";const s={__name:"index",setup(r){return(_,e)=>(o(),n("div",null,e[0]||(e[0]=[a("h1",null,"預計庫存差額統計",-1),a("p",null,"自動產生的頁面：預計庫存差額統計",-1)])))}},c=t(s,[["__scopeId","data-v-f759a97b"]]);export{c as default};
